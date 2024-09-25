@@ -9,7 +9,7 @@ languages = {"mrw": "Python", "Halim": "JS", "Hayden": "Minecraft"}
 #print(languages["mrw"]) # The key is mrw and the value is Python
 
 alien = {"color": "green", "points": 5, "location" : "center"}
-#print(alien["color"])
+#return(alien["color"])
 
 #looping over all keys
 for key in alien.keys():
